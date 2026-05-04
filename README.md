@@ -57,3 +57,8 @@ soroban contract invoke \
 
 ## License
 MIT
+
+##CONTRACT
+
+https://stellar.expert/explorer/testnet/tx/1b2979ec3030d6e3389ddf7c14b53b4b7499678aa3fc20d5d15d6e0b2deeda00
+https://lab.stellar.org/r/testnet/contract/CAH7MSAPCRX6Q7GWGNPIGKE2KPCRDWGLNZ2CEQ5UQHST72OD3WEPFW4U
