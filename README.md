@@ -3,7 +3,7 @@
 Transparent disaster fund distribution using Stellar.
 
 ## Problem
-NGOs in Bulacan cannot prove how donations are distributed, reducing donor trust.
+NGOs in Manila cannot prove how donations are distributed, reducing donor trust.
 
 ## Solution
 A Soroban contract records every disbursement on-chain with recipient and amount, enabling public verification.
